@@ -37,7 +37,7 @@
 (gpio26) GPIO pins to set at micro-controller startup
 
 ###################################
-# BTT EBB SB2209v(RP2040) Katapult #
+# BTT EBB SB2209 (RP2040) Katapult #
 ###################################
     Micro-controller Architecture (Raspberry Pi RP2040) --->
     Flash chip (W25Q080 with CLKDIV 2) --->
