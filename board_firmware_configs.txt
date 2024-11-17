@@ -1,3 +1,20 @@
+###################
+Flash instructions.
+###################
+1. cd ~/klipper
+2. make menuconfig
+    a. use the setting below
+3. make clean
+4. make
+5. Put MCU/Toolhead into DFU mode
+    a. Manta M8P: press and hold BOOT0, click RESET, count to 5 and release BOOT0
+    b. SB2209: press and hold BOOT, click RESET, count to 5 and realease BOOT
+6. lsusb
+7. Find the device ID for the device you are flashing (should be something like xxxx:xxxx)
+8. make flash FLASH_DEVICE=xxxx:xxxx
+9. Click RESET on MCU/Toolhead
+10. cd ~/katapult and repeat steps 2-9
+
 #####################
 # Manta M8P Klipper #
 #####################
