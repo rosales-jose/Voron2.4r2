@@ -1,6 +1,6 @@
-###################
-Flash instructions.
-###################
+######################
+# Flash instructions #
+######################
 1. cd ~/klipper
 2. make menuconfig
     a. use the setting below
