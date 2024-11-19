@@ -2,8 +2,8 @@
 ## Formbot August 2024 kit \
 BTT Manta M8P (v2.0) + BTT CB1 board \
 BTT EBB SB2209 CAN (RP2040) \
-BTT HDMI5 v1.2 Screen \
-\
+BTT HDMI5 v1.2 Screen \\
+## Upgrades
 
 
 
