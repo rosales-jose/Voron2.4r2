@@ -1,10 +1,19 @@
-# Voron 2.4r2 300mm
-Formbot August 2024 kit. 
-BTT Manta M8P (v2.0) + BTT CB1 board 
-BTT EBB SB2209 CAN (RP2040)
-BTT HDMI5 v1.2 Screen
+
+# Voron 2.4r2 Pro - 300mm
+## #Formbot August 2024 kit
+BTT Manta M8P (v2.0) + BTT CB1 board \
+BTT EBB SB2209 CAN (RP2040) \
+BTT HDMI5 v1.2 Screen 
+
+### Upgrades/Mods
+1. BTT CB1 ---> Raspberry Pi CM4 (no WiFi, added TP-Link USB WiFi Adapter TL-WN725N, N150) 
+2. CW2 Extruder --->  Galileo 2 (G2E)
+3. Generic all-metal titanium alloy V6 hotend ---> Phateus Rapido 2 Plus UHF (using as HF only), with PT1000
+4. TAP printed parts ---> CNC TAP
 
 
+
+### Formbot BoM (at time of purchase)
 | Category  | Description                     | Qty |
 | --------- | ------------------------------- | --- |
 |           | M5x40 SHCS                      | 22  |
